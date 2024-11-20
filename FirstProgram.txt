@@ -1,0 +1,17 @@
+import javax.swing.JOptionPane;
+ public First class 
+{
+	public static void main(String[] args)
+	{
+	System.out.println("Student id : 2413111077");
+	System.out.println("Student name : Uth Siriman");
+	System.out.println("Topic : Github");
+	System.out.println("Date : 11/20/2024");
+		JOptionPane.showMessageBiaLog(null,
+			"Student id : 2413111077"+
+  			"\nStudent name : Uth Siriman"+
+			"\nTopic : Github"+
+			"\n\Date : 11/20/2024\""
+			"Error"
+			JOptionPane.ERROR_MESSAGE
+				
